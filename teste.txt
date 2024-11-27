@@ -1,1 +1,5 @@
 Atualizando o arquivo txt
+arquivo
+b
+c
+d
